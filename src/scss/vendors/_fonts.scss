@@ -1,0 +1,34 @@
+
+ @font-face {
+     font-family: 'BrandonGrotesqueWeb-Black';
+     src: url('../fonts/30F270_0_0.woff') format('woff'),
+          url('../fonts/30F270_0_0.ttf') format('truetype');
+ }
+ 
+ @font-face {
+     font-family: 'Brandon-Black';
+     src: url('../fonts/30F270_1_0.woff') format('woff'), 
+          url('../fonts/30F270_1_0.ttf') format('truetype');
+ }
+ 
+ @font-face {
+     font-family: 'BrandonTextWeb-Regular';
+     src: url('../fonts/30F270_2_0.woff') format('woff'), 
+     	  url('../fonts/30F270_2_0.ttf') format('truetype');
+ }
+
+@font-face {
+    font-family: 'nautilus_pompilius';
+    src: url('../fonts/nautilus-webfont.woff') format('woff'),
+         url('../fonts/nautilus-webfont.ttf') format('truetype');   
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nobel';
+    src: url('../fonts/nobel-boldcondensed-webfont.woff') format('woff'),
+         url('../fonts/nobel-boldcondensed-webfont.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
