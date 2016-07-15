@@ -1876,4 +1876,55 @@ dl.info-list {
     max-width: 613px;
     margin: 0 auto; } }
 
+.rapports-page-head {
+  margin-bottom: 11px; }
+
+.rapports-page ul {
+  margin-bottom: 20px;
+  padding-left: 20px; }
+  .rapports-page ul li p {
+    margin-bottom: 0; }
+
+.rapports-page caption {
+  text-align: left;
+  font-weight: bold;
+  margin-bottom: 6px; }
+
+.rapports-page .result-block {
+  margin-bottom: 40px; }
+  .rapports-page .result-block table {
+    margin-bottom: 10px; }
+    .rapports-page .result-block table a {
+      text-decoration: underline; }
+      .rapports-page .result-block table a:hover {
+        text-decoration: none; }
+  .rapports-page .result-block p {
+    padding-left: 20px; }
+  .rapports-page .result-block-variant-1 th {
+    text-align: right;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important; }
+  .rapports-page .result-block-variant-1 p {
+    display: inline-block;
+    margin: 0; }
+  .rapports-page .result-block-variant-1 select {
+    height: 25px; }
+  .rapports-page .result-block-variant-1 td {
+    border-right: 2px solid #eee; }
+    .rapports-page .result-block-variant-1 td:last-child {
+      text-align: center; }
+  .rapports-page .result-block-variant-2 th {
+    text-align: center; }
+    .rapports-page .result-block-variant-2 th:nth-child(2) {
+      background: #0a6428; }
+  .rapports-page .result-block-variant-2 td {
+    border-right: 2px solid #eee; }
+  .rapports-page .result-block-variant-2 tbody tr td:first-child {
+    width: 10%;
+    text-align: center; }
+
+.rapports-page .table-body-head th {
+  background: #666 !important;
+  border-right: 2px solid #eee; }
+
 /*# sourceMappingURL=main.css.map */
